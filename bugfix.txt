@@ -1,1 +1,2 @@
-bug fixt on master
+bug fix on master
+dev is doing
