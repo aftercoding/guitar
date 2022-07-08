@@ -1,0 +1,4 @@
+file 2 with 
+good code
+line with good code 1
+line with good code 2
